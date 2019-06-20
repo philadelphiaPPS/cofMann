@@ -34,7 +34,7 @@ li a:hover {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("cafe.jpg");
+  background-image: url("Cafe.jpg");
   min-height: 75%;
   font-family:Comic Sans MS;
 }
